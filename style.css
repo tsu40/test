@@ -8,9 +8,11 @@ h1 {
 .part {
       display: grid;
       height: 100%;   
-      grid-area: right;
 }
 .im {
+  grid-area: right;
+  width: 170;
+  height: 200;
     max-width: 20%;
   max-height: 25vh;
  }
