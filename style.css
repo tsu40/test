@@ -5,11 +5,12 @@ h1 {
   color: red;
 }
 
-.im {
+.part {
       display: grid;
-      height: 100%;    
+      height: 100%;   
+      grid-area: right;
 }
-.tutor {
+.im {
     max-width: 20%;
   max-height: 25vh;
  }
