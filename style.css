@@ -7,11 +7,9 @@ h1 {
 
 .im {
       display: grid;
-      height: 100%;
-      grid-area:right;     
+      height: 100%;    
 }
 .tutor {
     max-width: 20%;
   max-height: 25vh;
-margin: auto;
  }
