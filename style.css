@@ -11,12 +11,3 @@ h1 {
   max-height: 190;
   float: right;
 }
-
-.all {
-  display: grid;
-  height: 100%;
-}
-.content {
-  max-width: 100%;
-  max-height: 100vh;
-}
