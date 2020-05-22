@@ -11,8 +11,6 @@ h1 {
 }
 .im {
   grid-area: right;
-  width: 170;
-  height: 200;
-    max-width: 20%;
-  max-height: 25vh;
+    max-width: 40%;
+  max-height: 55vh;
  }
