@@ -10,8 +10,7 @@ h1 {
       height: 100%;   
 }
 .im {
-  grid-area: right;
+  grid-area: center;
     max-width: 40%;
   max-height: 55vh;
-  padding-right: 55%;
  }
