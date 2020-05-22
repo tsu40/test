@@ -8,6 +8,7 @@ h1 {
 .part {
   display: grid;
   height: 100%
+  padding-left: 200px;
 }
 
 .im {
