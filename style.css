@@ -13,4 +13,5 @@ h1 {
 .im {
   max-width: 20%;
   max-height: 14vh;
+  float: right;
 }
