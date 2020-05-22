@@ -6,7 +6,7 @@ h1 {
 }
 
 .im {
-  width: 20%;
-  height: 14%;
+  max-width: 20%;
+  max-height: 14%;
   float: right;
 }
