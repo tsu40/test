@@ -4,3 +4,9 @@ h1 {
 .navbar {
   color: red;
 }
+
+.im {
+  width: 20%;
+  height: 14%;
+  float: right;
+}
