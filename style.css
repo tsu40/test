@@ -5,14 +5,15 @@ h1 {
   color: red;
 }
 
-.part {
-  display: grid;
-  height: 100%
-  padding-left: 200px;
-}
 
 .im {
-  max-width: 20%;
-  max-height: 14vh;
+  max-width: 150;
+  max-height: 200;
   padding-left: 100px;
+  float: right;
+}
+
+.all {
+  display: grid;
+  height: 100%;
 }
