@@ -11,3 +11,12 @@ h1 {
   max-height: 280px;
   float: right;
 }
+.all {
+      display: grid;
+      height: 100%;
+}
+.content {
+    max-width: 100%;
+  max-height: 100vh;
+margin: auto;
+ }
